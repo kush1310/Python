@@ -1,12 +1,12 @@
 <div align="center">
-# Python Programming Repository
+Python Programming Repository 
 <p>
   <img src="https://img.shields.io/badge/Language-Python-306998?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/github/repo-size/kush1310/Python?style=for-the-badge&color=blue" />
   <img src="https://img.shields.io/github/last-commit/kush1310/Python?style=for-the-badge&color=brightgreen" />
   <img src="https://img.shields.io/badge/Maintainer-Kush%20Amit%20Shah-informational?style=for-the-badge" />
 </p>
-> 📚 A collection of beginner to intermediate-level **Python programs** written during my Diploma in Computer Engineering. Each topic is modularized and stored in separate folders for clarity and structured learning.
+📚 A collection of beginner to intermediate-level **Python programs** written during my Diploma in Computer Engineering. Each topic is modularized and stored in separate folders for clarity and structured learning.
 </div>
 
 ---
