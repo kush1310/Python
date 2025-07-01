@@ -1,0 +1,9 @@
+# PRINT ASCII TABLE FROM ! TO ~
+# ENUMERATE IS USED TO KEEP A TRACE FOR LOOPING AND IT ALSO PROVIDES OUTPUT FASTER..
+
+print("ORDER IN WHICH VALUES ARE DISPLAYED IS: \n      CHARACTER | DECIMAL | HEXADECIMAL\n")
+print("NOTE THAT ONLY FIVE{5} VALUES ARE DISPLAYED PER LINE..\n")
+for i in enumerate(range(33, 127)):
+    print(chr(i[1]),i[1], hex(i[1]), end=" ")
+    if i[0] % 5 == 4:
+        print()
