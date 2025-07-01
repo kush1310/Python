@@ -1,5 +1,6 @@
 <div align="center">
-Python Programming Repository 
+<h1>Python Programming Repository</h1>
+
 <p>
   <img src="https://img.shields.io/badge/Language-Python-306998?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/github/repo-size/kush1310/Python?style=for-the-badge&color=blue" />
